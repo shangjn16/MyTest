@@ -1,1 +1,2 @@
 this is a test text.
+and now i insert a new line.
